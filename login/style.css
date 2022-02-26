@@ -1,0 +1,68 @@
+.container {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-top: -180px; 
+    margin-left: -150px;
+}
+
+.logo {
+    font-size: 70px;
+    text-align: center;
+}
+
+.loginbox {
+    align-items: center;
+}
+
+.submit {
+    margin-left: 1px;
+    margin-top: -10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.submit-input {
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    height: 40px;
+    border: white;
+    background-color:#d6d6d6;
+}
+
+.IDPW {
+    margin-left: 2px;
+    width: 300px;
+}
+
+#container p.input{
+    border: 1px solid #d6d6d6;
+    margin-top: -10px;
+    padding: 5px 5px;
+}
+
+#container p input.text {
+    border: 0px;
+    margin-left: 5px;
+}
+
+.autologin {
+    float: left;
+    font-size: 13px;
+}
+
+.find {
+    font-size: 13px;
+    float: right;
+    margin-top: -0.5px;
+    cursor: pointer;
+}
+
+#container label.autologin {
+    cursor: pointer;
+}
+
+.login-img {
+    margin-bottom: -3px;
+}
