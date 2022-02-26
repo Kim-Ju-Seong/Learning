@@ -4,3 +4,34 @@
 .font-50 {
     font-size: 50px;
 }
+
+.select-style1 {
+    height:40px;
+    font-size:20px;
+    color:blue;
+}
+
+.tb-headborder>thead>tr>td {
+    border: 2px solid black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.tb-bodyborder>tr>td {
+    border: 2px solid black;
+}
+
+p {
+    background: yellowgreen;
+    color: darkgreen; }
+
+.class1 {
+    background: red;
+}
+
+#p1 {
+    background: skyblue;
+}
+
+.tb td {
+    background: pink;
+}
